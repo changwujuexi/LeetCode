@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="01Matrix_542.cs" />
+    <Compile Include="AddBinary_67.cs" />
     <Compile Include="ArrayPartition_561.cs" />
     <Compile Include="BestTimeToBuyANdSellStock1_121.cs" />
     <Compile Include="BestTimeToBuyAndSellStock2_122.cs" />
@@ -55,8 +56,10 @@
     <Compile Include="ContainsDuplicate_220.cs" />
     <Compile Include="DailyTemperatures_739.cs" />
     <Compile Include="DecodeString_394.cs" />
+    <Compile Include="DesignLinkedList_707.cs" />
     <Compile Include="DiagonalTraverse_498.cs" />
     <Compile Include="EvaluateReversePolishNotation_150.cs" />
+    <Compile Include="FibonacciNumber_509.cs" />
     <Compile Include="FindPivotIndex_724.cs" />
     <Compile Include="FindTheDuplicateNumber_287.cs" />
     <Compile Include="FirstMissingPositive_41.cs" />
@@ -64,6 +67,9 @@
     <Compile Include="FourSum_18.cs" />
     <Compile Include="FourSum_454.cs" />
     <Compile Include="GameOfLife_289.cs" />
+    <Compile Include="KeysAndRooms_841.cs" />
+    <Compile Include="K_th_Symbol_In_Grammar_779.cs" />
+    <Compile Include="LargestNumberAtLeastTwiceOfOthers_747.cs" />
     <Compile Include="leetcode102.cs" />
     <Compile Include="leetcode_110.cs" />
     <Compile Include="leetcode_111.cs" />
@@ -78,19 +84,41 @@
     <Compile Include="leetcode_83.cs" />
     <Compile Include="leetcode_94.cs" />
     <Compile Include="leetcode_98.cs" />
+    <Compile Include="LinkedListCycleII_142.cs" />
+    <Compile Include="LinkedListCycle_141.cs" />
+    <Compile Include="LongestCommonPrefix_14.cs" />
     <Compile Include="LongestIncreasingSubsequence_300.cs" />
+    <Compile Include="MaxConsecutiveOnes_485.cs" />
+    <Compile Include="MaximumDepthOfBinaryTree_104.cs" />
+    <Compile Include="MergeTwoSortedLists_21.cs" />
     <Compile Include="mi20190911.cs" />
+    <Compile Include="MinimumSizeSubarraySum_209.cs" />
     <Compile Include="MinStack_155.cs" />
+    <Compile Include="MoveZeros_283.cs" />
     <Compile Include="NumberOfIslands.cs" />
     <Compile Include="NumberOfIslands_UnionFind.cs" />
     <Compile Include="NumberOfIsland_BFS.cs" />
     <Compile Include="OpenTheLock_752.cs" />
+    <Compile Include="Pascal%27sTriangleII_119.cs" />
+    <Compile Include="Pascal%27sTriangle_118.cs" />
     <Compile Include="PerfectSquares_279.cs" />
+    <Compile Include="Pow_x_n_50.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveDuplicatesFromSortedArray_26.cs" />
+    <Compile Include="RemoveElement_27.cs" />
+    <Compile Include="ReverseWordsInAStringIII_557.cs" />
+    <Compile Include="ReverseWordsInAString_151.cs" />
+    <Compile Include="ReverseLinkedList_206.cs" />
+    <Compile Include="ReverseString_344.cs" />
+    <Compile Include="RotateArray_189.cs" />
     <Compile Include="RussianDollEnvelopes_354.cs" />
+    <Compile Include="SpiralMatrix_54.cs" />
+    <Compile Include="SwapNodesInPairs.cs" />
     <Compile Include="TargetSum_494.cs" />
     <Compile Include="ThreeSum_15.cs" />
+    <Compile Include="TwoSumII_InputArrayIsSorted_167.cs" />
+    <Compile Include="UniqueBinarySearchTreesII_95.cs" />
+    <Compile Include="UniqueBinarySearchTrees_96.cs" />
     <Compile Include="ValidParentheses.cs" />
   </ItemGroup>
   <ItemGroup>
