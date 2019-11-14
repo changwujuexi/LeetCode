@@ -78,11 +78,11 @@ namespace LeetCode.Hash
 		}
 			
 
-		private static void Main(string[] args)
-		{
-			var fs = new GroupAnagrams_49();
-			fs.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
-		}
+		//private static void Main(string[] args)
+		//{
+		//	var fs = new GroupAnagrams_49();
+		//	fs.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
+		//}
 	
 	}
 }
