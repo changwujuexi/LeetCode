@@ -67,6 +67,11 @@
     <Compile Include="BinarySearch\ValidPerfectSquare_367.cs" />
     <Compile Include="BinaryTree\BinaryTreePostorderTraversal_145.cs" />
     <Compile Include="BinaryTree\BinaryTreePreorderTraversal_144.cs" />
+    <Compile Include="BinaryTree\ConstructBinaryTreeFromInorderAndPostorderTraversal_106.cs" />
+    <Compile Include="BinaryTree\ConstructBinaryTreeFromPreorderAndInorderTraversal_105.cs" />
+    <Compile Include="BinaryTree\PathSum_112.cs" />
+    <Compile Include="BinaryTree\PopulatingNextRightPointersInEachNode_116.cs" />
+    <Compile Include="BinaryTree\SymmetricTree_101.cs" />
     <Compile Include="CloneGraph_133.cs" />
     <Compile Include="ContainerWithMostWater_11.cs" />
     <Compile Include="FindDuplicateSubtrees_652.cs" />
@@ -109,7 +114,7 @@
     <Compile Include="KeysAndRooms_841.cs" />
     <Compile Include="K_th_Symbol_In_Grammar_779.cs" />
     <Compile Include="LargestNumberAtLeastTwiceOfOthers_747.cs" />
-    <Compile Include="leetcode102.cs" />
+    <Compile Include="BinaryTree\BinaryTreeLevelOrderTraversal_102.cs" />
     <Compile Include="leetcode_110.cs" />
     <Compile Include="leetcode_111.cs" />
     <Compile Include="leetcode_12.cs" />

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode
 {
-    class leetcode102
+    class BinaryTreeLevelOrderTraversal_102
     {
         IList<IList<int>> levels = new List<IList<int>>();
 
