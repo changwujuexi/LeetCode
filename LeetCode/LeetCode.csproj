@@ -50,6 +50,12 @@
     <Compile Include="BestTimeToBuyANdSellStock1_121.cs" />
     <Compile Include="BestTimeToBuyAndSellStock2_122.cs" />
     <Compile Include="BestTimeToBuyAndSellStock3_123.cs" />
+    <Compile Include="BinarySearchTree\BinarySearchTreeIterator_173.cs" />
+    <Compile Include="BinarySearchTree\ConvertSortedArrayToBinarySearchTree_108.cs" />
+    <Compile Include="BinarySearchTree\DeleteNodeInABST.cs" />
+    <Compile Include="BinarySearchTree\InsertIntoABinarySearchTree.cs" />
+    <Compile Include="BinarySearchTree\KthLargestElementInAStream_703.cs" />
+    <Compile Include="BinarySearchTree\SearchInABinarySearchTree.cs" />
     <Compile Include="BinarySearch\BinarySearch_704.cs" />
     <Compile Include="BinarySearch\FindFirstAndLastPositionOfElementInSortedArray_34.cs" />
     <Compile Include="BinarySearch\FindK-thSmallestPairDistance_719.cs" />
@@ -69,15 +75,18 @@
     <Compile Include="BinaryTree\BinaryTreePreorderTraversal_144.cs" />
     <Compile Include="BinaryTree\ConstructBinaryTreeFromInorderAndPostorderTraversal_106.cs" />
     <Compile Include="BinaryTree\ConstructBinaryTreeFromPreorderAndInorderTraversal_105.cs" />
+    <Compile Include="BinaryTree\LowestCommonAncestorOfABinaryTree_236.cs" />
     <Compile Include="BinaryTree\PathSum_112.cs" />
+    <Compile Include="BinaryTree\PopulatingNextRightPointersInEachNodeII_117.cs" />
     <Compile Include="BinaryTree\PopulatingNextRightPointersInEachNode_116.cs" />
+    <Compile Include="BinaryTree\SerializeAndDeserializeBinaryTree_297.cs" />
     <Compile Include="BinaryTree\SymmetricTree_101.cs" />
     <Compile Include="CloneGraph_133.cs" />
     <Compile Include="ContainerWithMostWater_11.cs" />
     <Compile Include="FindDuplicateSubtrees_652.cs" />
     <Compile Include="Hash\ContainsDuplicate2_219.cs" />
     <Compile Include="Hash\ContainsDuplicate_217.cs" />
-    <Compile Include="ContainsDuplicate_220.cs" />
+    <Compile Include="BinarySearchTree\ContainsDuplicate_220.cs" />
     <Compile Include="CopyListWithRandomPointer_138.cs" />
     <Compile Include="DailyTemperatures_739.cs" />
     <Compile Include="DecodeString_394.cs" />
@@ -127,7 +136,7 @@
     <Compile Include="leetcode_70.cs" />
     <Compile Include="leetcode_83.cs" />
     <Compile Include="leetcode_94.cs" />
-    <Compile Include="leetcode_98.cs" />
+    <Compile Include="BinarySearchTree\ValidateBinarySearchTree_98.cs" />
     <Compile Include="LinkedListCycleII_142.cs" />
     <Compile Include="LinkedListCycle_141.cs" />
     <Compile Include="LongestCommonPrefix_14.cs" />
@@ -139,6 +148,10 @@
     <Compile Include="MinimumSizeSubarraySum_209.cs" />
     <Compile Include="MinStack_155.cs" />
     <Compile Include="MoveZeros_283.cs" />
+    <Compile Include="N-aryTree\MaximumDepthOfN-aryTree_559.cs" />
+    <Compile Include="N-aryTree\N-aryTreeLevelOrderTraversal_429.cs" />
+    <Compile Include="N-aryTree\N-aryTreePreorderTraversal_589.cs" />
+    <Compile Include="N-aryTree\N_aryTreePostorderTraversal_590.cs" />
     <Compile Include="NumberOfIslands.cs" />
     <Compile Include="NumberOfIslands_UnionFind.cs" />
     <Compile Include="NumberOfIsland_BFS.cs" />
@@ -173,5 +186,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

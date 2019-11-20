@@ -45,10 +45,10 @@ namespace LeetCode.BinaryTree
 			return node;
 		}
 
-		static void Main(string[] args)
-		{
-			var dsda = new ConstructBinaryTreeFromPreorderAndInorderTraversal_105();
-			dsda.BuildTree(new int[] { 3, 9, 20, 15, 7 }, new int[] { 9, 3, 15, 20, 7 });
-		}
+		//static void Main(string[] args)
+		//{
+		//	var dsda = new ConstructBinaryTreeFromPreorderAndInorderTraversal_105();
+		//	dsda.BuildTree(new int[] { 3, 9, 20, 15, 7 }, new int[] { 9, 3, 15, 20, 7 });
+		//}
 	}
 }

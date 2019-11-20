@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode
 {
-    class leetcode_98
+    class ValidateBinarySearchTree_98
     {
 
         //广度遍历
