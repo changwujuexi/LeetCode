@@ -124,6 +124,7 @@
     <Compile Include="K_th_Symbol_In_Grammar_779.cs" />
     <Compile Include="LargestNumberAtLeastTwiceOfOthers_747.cs" />
     <Compile Include="BinaryTree\BinaryTreeLevelOrderTraversal_102.cs" />
+    <Compile Include="LC2018\Prepare\MajorityElement_169.cs" />
     <Compile Include="leetcode_110.cs" />
     <Compile Include="leetcode_111.cs" />
     <Compile Include="leetcode_12.cs" />
@@ -162,6 +163,13 @@
     <Compile Include="Pascal%27sTriangle_118.cs" />
     <Compile Include="PerfectSquares_279.cs" />
     <Compile Include="Pow_x_n_50.cs" />
+    <Compile Include="PrefixTree\AddAndSearchWord_211.cs" />
+    <Compile Include="PrefixTree\ImplementTrie%28Prefix Tree%29_208.cs" />
+    <Compile Include="PrefixTree\MapSumPairs_677.cs" />
+    <Compile Include="PrefixTree\MaximumXOROfTwoNumbersInAnArray_421.cs" />
+    <Compile Include="PrefixTree\PalindromePairs_336.cs" />
+    <Compile Include="PrefixTree\ReplaceWords_648.cs" />
+    <Compile Include="PrefixTree\WordSearchII_212.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveDuplicatesFromSortedArray_26.cs" />
     <Compile Include="RemoveElement_27.cs" />

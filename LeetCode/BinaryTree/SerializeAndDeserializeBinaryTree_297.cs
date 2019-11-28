@@ -139,11 +139,11 @@ namespace LeetCode.BinaryTree
 			}
 		}
 
-		static void Main(string[] args)
-		{
-			;
-			serialize(deserialize("1,3,null,null,4"));
-			Console.ReadKey();
-		}
+		//static void Main(string[] args)
+		//{
+		//	;
+		//	serialize(deserialize("1,3,null,null,4"));
+		//	Console.ReadKey();
+		//}
 	}
 }
